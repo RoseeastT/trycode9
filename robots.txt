@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://bento138.jorisroovers.com/sitemap.xml
+Sitemap : http://bento138.arrayfire.org/sitemap.xml
